@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Encrypted",
+    "description": "Your data is encrypted before it leaves your device, providing security to the cloud."
+  },
+  {
+    "title": "Decentralized",
+    "description": "Your data is stored in a decentralized cloud, so you can access it anytime, anywhere."
+  },
+  {
+    "title": "Open Source",
+    "description": "The code is open source, so you can be sure that your data is handled securely."
+  },
+  {
+    "title": "Fast",
+    "description": "The service is fast, so you can use it without any delay."
+  },
+  {
+    "title": "Secure",
+    "description": "The service is secure, so you can use it without any worry."
+  },
+  {
+    "title": "Private",
+    "description": "The service is private, so you can use it without any worry."
+  },
+  {
+    "title": "Anonymous",
+    "description": "The service is anonymous, so you can use it without any worry."
+  },
+  {
+    "title": "Reliable",
+    "description": "The service is reliable, so you can use it without any worry."
+  },
+  {
+    "title": "Easy to use",
+    "description": "The service is easy to use, so you can use it without any hassle."
+  }
+]
