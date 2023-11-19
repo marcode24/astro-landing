@@ -1,5 +1,11 @@
 ---
+interface Props {
+  title: string;
+}
+
 import '../styles/Layout.css';
+
+const { title } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -7,9 +13,11 @@ import '../styles/Layout.css';
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Astro Lading</title>
+  <title>Astro Lading - {title}</title>
 </head>
 <body>
-  <slot />
+  <main class="mx-auto container ">
+    <slot />
+  </main>
 </body>
 </html>
